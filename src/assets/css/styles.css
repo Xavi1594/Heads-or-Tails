@@ -29,10 +29,10 @@ body {
 color: black;
 
   }
-  .moneda {
+  /* .moneda {
     
-  }
-  .btn-moneda {
+  } */
+  #btn-moneda {
     font-size: 25px;
     background-color: yellow;
     cursor: pointer;
@@ -42,7 +42,7 @@ color: black;
     border-radius: 10px;
   }
 
-  .btn-moneda:hover {
+  #btn-moneda:hover {
     letter-spacing: 2px;
     color: white;
     background-color: green;
